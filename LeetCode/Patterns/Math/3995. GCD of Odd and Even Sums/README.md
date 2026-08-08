@@ -9,7 +9,7 @@ Math, Number Theory
 
 ### 🚀 Performance
 - **Runtime:** 1 ms
-- **Memory:** 42.4 MB
+- **Memory:** 42.7 MB
 
 ---
 
