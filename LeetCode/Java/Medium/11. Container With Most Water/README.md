@@ -8,8 +8,8 @@
 Array, Two Pointers, Greedy
 
 ### 🚀 Performance
-- **Runtime:** 5 ms
-- **Memory:** 77.3 MB
+- **Runtime:** 177 ms
+- **Memory:** 77.4 MB
 
 ---
 
